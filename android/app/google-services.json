@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132893245224",
+    "project_id": "ev-station-finder-311b0",
+    "storage_bucket": "ev-station-finder-311b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132893245224:android:a1b80d5112d501d9f05a1d",
+        "android_client_info": {
+          "package_name": "com.example.ev_charging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnKo5frK51nXhx9oghHF12naDDZkDPsEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
