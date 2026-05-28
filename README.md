@@ -1,92 +1,84 @@
-# EV Charging Finder & Slot Booking App
+# ⚡ EV Charging Finder and Booking App
 
-A Flutter-based EV Charging Station Finder application that helps users locate charging stations, book charging slots, manage EV profiles, and make UPI payments.
+A Flutter-based EV Charging Station Finder and Slot Booking Application with Firebase integration and UPI payment support.
 
 ---
 
-## Features
+## 📱 Features
 
-* User Authentication using Firebase
+* User Authentication (Login / Signup)
 * EV Vehicle Registration
-* Nearby Charging Station Locator
-* Live Slot Booking System
+* Nearby Charging Station Finder
+* Slot Booking System
+* Live Slot Availability
 * UPI Payment Integration
-* Booking History Management
-* Professional User Profile
-* Real-time Firestore Database
+* Booking History
+* User Profile Management
+* Vehicle Management
+* Firebase Firestore Database
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * Flutter
 * Dart
 * Firebase Authentication
 * Cloud Firestore
-* Flutter Map
-* Geolocator
-* UPI Intent Payment
-* URL Launcher
+* Google Maps / Flutter Map
+* UPI Payment Integration
+* Android Studio
 
 ---
 
-## Screenshots
+## 📸 App Screenshots
 
+### Login Page
 
-## App Screenshots
-
-### Login Screen
 ![Login](screenshots/login.png)
 
-### Register Screen
-![Register](screenshots/register.png)
+### Map Page
 
-### Map Screen
 ![Map](screenshots/map.png)
 
-### Booking Screen
+### Booking Page
+
 ![Booking](screenshots/booking.png)
 
-### Payment Screen
-![Payment](screenshots/payment.png)
+### Profile Page
 
-### Profile Screen
 ![Profile](screenshots/profile.png)
 
-### Booking History
-![History](screenshots/history.png)
+### Payment Page
+
+![Payment](screenshots/payment.png)
 
 ---
 
-## Project Workflow
+## 📂 Project Structure
 
-1. User Registration/Login
-2. EV Vehicle Setup
-3. Find Charging Station
-4. Select Slot & Date
-5. UPI Payment
-6. Booking Confirmation
-7. Booking History Storage
-
----
-
-## Future Scope
-
-* AI Route Optimization
-* Live Charger Availability using IoT
-* Admin Dashboard
-* Push Notifications
-* Multi-city Expansion
+```bash
+lib/
+ ├── auth/
+ ├── screens/
+ ├── widgets/
+ ├── services/
+ ├── main.dart
+```
 
 ---
 
-## Developed By
+## 🚀 How to Run
 
-* Madhura Thorat
+1. Clone the repository
 
----
+```bash
+git clone https://github.com/Madhu2906/EV-Charging-Finder-and-Booking-App.git
+```
 
-## How to Run Project
+2. Open project in Android Studio
+
+3. Run commands
 
 ```bash
 flutter pub get
@@ -95,6 +87,12 @@ flutter run
 
 ---
 
-## Output
+## 📌 Future Scope
 
-This application simplifies EV charging management by combining station discovery, slot booking, and payment integration into one platform.
+* Real-time charger availability
+* AI-based station recommendation
+* Online payment gateway integration
+* Fast charging analytics
+* QR-based charging system
+
+---
