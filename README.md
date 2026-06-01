@@ -35,7 +35,7 @@ A Flutter-based EV Charging Station Finder and Slot Booking Application with Fir
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.jpeg)
 
 ### Map Page
 
@@ -43,7 +43,7 @@ A Flutter-based EV Charging Station Finder and Slot Booking Application with Fir
 
 ### Booking Page
 
-![Booking](screenshots/booking.png)
+![Booking](screenshots/Booking_Slot.jpeg)
 
 ### Profile Page
 
@@ -51,7 +51,7 @@ A Flutter-based EV Charging Station Finder and Slot Booking Application with Fir
 
 ### Payment Page
 
-![Payment](screenshots/payment.png)
+![Payment](screenshots/Reciept.jpeg)
 
 ---
 
