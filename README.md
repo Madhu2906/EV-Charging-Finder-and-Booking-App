@@ -35,25 +35,27 @@ A Flutter-based EV Charging Station Finder and Slot Booking Application with Fir
 
 ### Login Page
 
-![Login](screenshots/Login.jpeg)
+![Login](Screenshots/Login.jpeg)
 
 ### Map Page
 
-![Map](screenshots/Map.jpeg)
+![Map](Screenshots/Map.jpeg)
+
 
 ### Booking Page
 
-![Booking](screenshots/Booking_Slot.jpeg)
+![Booking](Screenshots/Booking_Slot.jpeg)
+
 
 ### Profile Page
 
-![Profile](screenshots/Profile.jpeg)
+![User Profile](Screenshots/Profile.jpeg)
 
 ### Payment Page
 
-![Payment](screenshots/Reciept.jpeg)
+![Payment](Screenshots/Reciept.jpeg)
 
-![ATS Analysis](Screenshots/Map.jpeg)
+
 
 ---
 
